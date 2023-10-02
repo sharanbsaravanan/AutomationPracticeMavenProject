@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="util" />
         <module name="signIn" />
+        <module name="signup" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="signIn" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
