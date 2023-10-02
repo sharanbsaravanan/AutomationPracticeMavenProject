@@ -9,5 +9,8 @@
         <module name="AutomationPracticeMavenProject" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="signIn" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
